@@ -1,2 +1,2 @@
 # Pavan-Demo
-i am studying btech
+i am studying btech-pavan
